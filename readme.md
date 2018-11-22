@@ -1,5 +1,7 @@
 ### personal tools
 
-- 管理工具
-- 计算工具
+- sbin
+  - shell脚本
+- lib
+  - python
 
